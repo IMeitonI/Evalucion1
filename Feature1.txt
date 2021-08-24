@@ -1,0 +1,7 @@
+Console.Writeline("Hola soy moderadora") 
+
+m1();
+
+m2();
+
+m3();
