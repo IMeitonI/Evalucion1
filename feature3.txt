@@ -1,5 +1,0 @@
-Hola mundo, este es el Feature 3
-8 + 8 = 16
-Soy miembro
-x + 2 = 5
-Me llamo Majo
